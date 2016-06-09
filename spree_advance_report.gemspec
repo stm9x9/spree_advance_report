@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.name        = 'spree_advance_report'
   s.version     = '3.0.9'
   s.summary     = 'Advanced Reporting for Spree'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.description = 'Advance reporting method'
   s.required_ruby_version = '>= 2.1.0'
 
    s.author    = 'guru'
